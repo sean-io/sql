@@ -1,4 +1,4 @@
-# sql
+### Sample SQL
 
 Postgres file displays various sample query techniques.
 
